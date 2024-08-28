@@ -15,5 +15,21 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+  
+div {
+    background-color: darkcyan;
+    text-align: center;
+    padding: 20px;
+}
 
+img {
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    color: white;
+}
 
