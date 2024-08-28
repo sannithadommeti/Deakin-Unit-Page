@@ -32,4 +32,20 @@ h1 {
     font-family: Arial, sans-serif;
     color: white;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+  font-family: Arial, sans-serif;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 
